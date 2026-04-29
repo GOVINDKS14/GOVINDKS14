@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Govind Kumar Singh</h1>
 <h3 align="center">A Computer Science student from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning Algorithms alongwith Python Libraries**
-
-- 💬 Ask me about **Python, C, Java**
+- 🌱 I’m currently learning **Machine Learning Algorithms and Deep Learning along with Python Libraries**
 
 - 📫 How to reach me **govindkumarsingh140@gmail.com**
 
