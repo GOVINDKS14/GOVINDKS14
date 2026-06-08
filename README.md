@@ -1,5 +1,5 @@
 
-<h1 align="center">Hii👋 I'm Govind</h1>
+<h1 align="center">Hi 👋 I'm Govind</h1>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Machine Learning Algorithms and Deep Learning.<br><br>💬 Ask me about ANNs, CNNs, RNNs, etc.<br><br>📧 Reach me: govindkumarsingh140@gmail.com</p>
+<p align="left">📚 I'm currently learning Machine Learning Algorithms and Deep Learning.<br><br>💬 Ask me about Machine Learning, Deep Learning, ANNs, CNNs, and RNNs.<br><br>📧 Reach me: govindkumarsingh140@gmail.com</p>
 
 ###
 
